@@ -24,7 +24,7 @@ jobs:
         id: bonsai
         with:
           output-dir: assets
-          # legend: left        # what the colors and signs mean, beside the tree
+          legend: left # what the colors and signs mean, beside the tree
 
       - name: Commit if it changed
         run: |
