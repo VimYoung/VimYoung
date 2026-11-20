@@ -1,0 +1,4 @@
+- uses: StevenBtw/gitbonsai@v0.4.0
+  with:
+    output-dir: assets # bonsai-light.svg and bonsai-dark.svg
+    legend: left # optional: off (default), left or right
